@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
-  /*    options: {
+      options: {
         navigation: [
           {
             title: `Blog`,
@@ -33,7 +33,7 @@ module.exports = {
             url: `https://www.instagram.com/lekoarts.de/`,
           },
         ],
-      },*/
+      },
     },
     
     `gatsby-plugin-sitemap`,
